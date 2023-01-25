@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richardbunker
 - 👀 I’m interested in Laravel, PHP, Javascript, & React.
 - 🌱 I’m currently learning more advanced Laravel/PHP concepts.
-- 💞️ I’m looking to collaborate on the tech I love: Inertia.js, Laravel & Tailwind!
+- 💞️ I’m looking to collaborate on the tech I love: Inertia.js, Laravel, TailwindCSS, React, & NEXT.js!
 - 📫 How to reach me @richardbunker_ on twitter!
 
 <!---
