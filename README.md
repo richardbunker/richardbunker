@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardbunker
-- 👀 I’m interested in Java, Laravel/PHP, Node.js, & React.
-- 🌱 I’m currently learning Java Backend Development ☕️.
+- 👀 I’m interested in JavaScript, Laravel/PHP, NodeJS, & ReactJS.
+- 🌱 I’m currently learning NodeJS & NextJS full-stack development.
 - 💞️ I’m looking to collaborate on the tech I love: Inertia.js, Laravel, TailwindCSS, React, & NEXT.js!
 - 📫 How to reach me @richardbunker_ on twitter!
 
