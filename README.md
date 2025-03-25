@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardbunker
-- 👀 I’m interested in Go, PHP, TypeScript, Node.js, & React.js
+- 👀 I’m interested in Go, Python, TypeScript, and PHP
 - 💞️ Huge fan of DevOps, Terraform, and CI/CD
 - 📫 How to reach me @richardbunker_ on twitter!
 
