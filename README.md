@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @richardbunker
+- ✨ I love generative AI to solve business problems
 - 👀 I’m interested in Go, Python, TypeScript, and PHP
 - 💞️ Huge fan of DevOps, Terraform, and CI/CD
 - 📫 How to reach me @richardbunker_ on twitter!
